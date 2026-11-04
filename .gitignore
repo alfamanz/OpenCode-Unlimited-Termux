@@ -1,7 +1,14 @@
+# runtime state written by ocu install / ocu id
 identity.json
 unlimited.json
 unlimited-bridge.pid
 unlimited-bridge.log
+unlimited-ip.json
+
+# deps and build output
 node_modules/
 dist/
-scoop/
+
+# editors / os
+.DS_Store
+*.swp
